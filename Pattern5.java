@@ -10,6 +10,7 @@ class Pattern5{
                 System.out.print("*");
                 j++;
 
+                
             }
             i++;
             System.out.println();
